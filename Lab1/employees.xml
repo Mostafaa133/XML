@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="employees.css"?>
+<employees>
+  <employee isbn="1">
+    <name>Mostafa Ashraf</name>
+    <phones>
+      <phone type="home">012833444511</phone>
+      <phone type="work">010626644249</phone>
+    </phones>
+    <addresses>
+      <address>
+        <street>Main Street</street>
+        <building_number>1</building_number>
+        <region>fouad st</region>
+        <city>Alexandria</city>
+        <country>Egypt</country>
+      </address>
+    </addresses>
+    <email>Mostafa@gmail.com</email>
+  </employee>
+  <employee isbn="2">
+    <name>hello</name>
+    <phones>
+      <phone type="mobile">01143623</phone>
+	<phone type="work">01598929</phone>
+    </phones>
+    <addresses>
+      <address>
+        <street>Fouad st</street>
+        <building_number>81</building_number>
+        <region>bab sharq</region>
+        <city>Alexandria</city>
+        <country>Egypt</country>
+      </address>
+    </addresses>
+    <email>hello@example.com</email>
+  </employee>
+</employees>
